@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="70.714284"
+     inkscape:cy="592.33931"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3342"
+       transform="matrix(1.6051704,0,0,1.6051704,34.581149,-185.57439)">
+      <rect
+         y="-44.352074"
+         x="-57.14283"
+         height="351"
+         width="851"
+         id="rect3336"
+         style="fill:#d45500" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3338"
+         y="140.96237"
+         x="217.03882"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="140.96237"
+           x="217.03882"
+           id="tspan3340"
+           sodipodi:role="line">Responsividade</tspan></text>
+    </g>
+    <g
+       id="g3347"
+       transform="matrix(1.6051704,0,0,1.6051704,34.581149,414.42572)">
+      <rect
+         style="fill:#5aa02c"
+         id="rect3349"
+         width="851"
+         height="351"
+         x="-57.14283"
+         y="-44.352074" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="217.03882"
+         y="140.96237"
+         id="text3351"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3353"
+           x="217.03882"
+           y="140.96237">Responsividade</tspan></text>
+    </g>
+    <g
+       transform="matrix(1.6051704,0,0,1.6051704,34.581149,1014.4258)"
+       id="g3355">
+      <rect
+         y="-44.352074"
+         x="-57.14283"
+         height="351"
+         width="851"
+         id="rect3357"
+         style="fill:#0088aa" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3359"
+         y="140.96237"
+         x="217.03882"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="140.96237"
+           x="217.03882"
+           id="tspan3361"
+           sodipodi:role="line">Responsividade</tspan></text>
+    </g>
+  </g>
+</svg>

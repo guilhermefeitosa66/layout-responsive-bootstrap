@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Responsive Bootstrap</title>
+  <link rel="stylesheet" type="text/css" href="cosmo/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="cosmo/custom.css">
+  <script type="text/javascript" src="cosmo/jquery-1.11.3.js"></script>
+  <script type="text/javascript" src="cosmo/bootstrap.js"></script>
+</head>
+<body>
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+      <!-- agrupar para mobile -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">Navbar Responsiva</a>
+      </div>
+    
+      <!-- links da navbar -->
+      <div class="collapse navbar-collapse navbar-ex1-collapse">
+        <ul class="nav navbar-nav">
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Inscreva-se</a></li>
+          <li><a href="#">Baixe ebooks</a></li>
+          <li><a href="#">Contato</a></li>
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Usuário<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">Editar perfil</a></li>
+              <li><a href="#">Redefinir senha</a></li>
+              <li><a href="#">Sair</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+  </nav><!-- fim da navbar -->
+
+  <div class="fill">
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img src="imagem-1.png" alt="Imagem 1" class="img-responsive">
+          <div class="carousel-caption visible-lg-block visible-md-block">
+            <h3>Hello</h3>
+            <p>essa é a primeira imagem!</p>
+          </div>
+        </div>
+
+        <div class="item">
+          <img src="imagem-2.png" alt="Imagem 2" class="img-responsive">
+          <div class="carousel-caption visible-lg-block visible-md-block">
+            <h3>Hello</h3>
+            <p>essa é a segunda imagem!</p>
+          </div>
+        </div>
+
+        <div class="item">
+          <img src="imagem-3.png" alt="Imagem 3" class="img-responsive">
+          <div class="carousel-caption visible-lg-block visible-md-block">
+            <h3>Hello</h3>
+            <p>essa é a terceira imagem!</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Anterior</span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Próximo</span>
+      </a>
+    </div><!-- fim do caroulsel -->
+  </div>
+
+  <div class="container"><!-- grid resposiva -->
+    <div class="row">
+
+      <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+        <h1>Hello</h1>
+        <hr>
+        <p class="justify">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+      </div>
+
+      <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+        <h1>World</h1>
+        <hr>
+        <p class="justify">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+      </div>
+
+      <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+        <h1>yaaaah!</h1>
+        <hr>
+        <p class="justify">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+      </div>
+
+    </div> <!-- fim da row -->
+  </div> <!-- fim da grid responsiva -->
+
+  <!-- tabela responsiva -->
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12">
+        <div class="table-responsive">
+          <table class="table table-hover table-bordered">
+            <thead>
+              <tr>
+                <th>nome</th>
+                <th>email</th>
+                <th>fone</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Guilherme</td>
+                <td>guilherme@email.com</td>
+                <td>(89) 9 9932-9299</td>
+              </tr>
+              <tr>
+                <td>Guilherme Feitosa</td>
+                <td>guilhermefeitosa66@email.com</td>
+                <td>(89) 9 9932-9299</td>
+              </tr>
+            </tbody>
+          </table>
+        </div><!-- fim da tabela responsiva -->
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+        <h3>Contato</h3>
+        <hr>
+        <form action="#" method="post" class="">
+          <div class="form-group">
+            <label for="nome">Nome:</label>
+            <input type="text" name="nome" id="nome" placeholder="Guilherme" class="form-control">
+          </div>
+
+          <div class="form-group">
+            <label for="email">E-mail:</label>
+            <input type="email" name="email" id="email" placeholder="guilherme@email.com" class="form-control">
+          </div>
+
+          <div class="form-group">
+            <label for="mensagem">Mensagem:</label>
+            <textarea id="mensagem" name="mensagem" placeholder="Mensagem..." rows="5" class="form-control"></textarea>
+          </div>
+
+          <div class="form-group">
+            <input type="submit" name="enviar" id="enviar" value="Enviar" class="btn btn-primary">
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <hr>
+      </div>
+
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+        <p class="center">Guilherme Feitosa &copy; 2015</p>
+      </div>
+
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+        <p class="center">guilhermefeitosa@gmail.com</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
