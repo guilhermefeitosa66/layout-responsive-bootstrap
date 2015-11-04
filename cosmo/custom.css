@@ -19,3 +19,23 @@
 body {
   padding-top:50px;
 }
+
+.bg1 {
+  background: #99cc33;
+}
+
+.bg2 {
+  background: #33cc99;
+}
+
+.bg3 {
+  background: #cc9933;
+}
+
+.bg4 {
+  background: #cc3399;
+}
+
+.bg1, .bg2, .bg3, .bg4 {
+  color: #FFFFFF;
+}
